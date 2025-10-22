@@ -13,7 +13,7 @@ const Index = () => {
         title="Start Your Dropshipping Journey"
         subtitle={{
           regular: "Build your store with ",
-          gradient: "Wishenly",
+          gradient: "wishenly",
         }}
         description="Launch your dropshipping business effortlessly. No inventory, no hassle—just quality products and seamless integration."
         ctaText="Explore Products"
